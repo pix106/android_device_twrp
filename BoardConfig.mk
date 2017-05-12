@@ -23,4 +23,5 @@ RECOVERY_SDCARD_ON_DATA := true
 TW_INCLUDE_NTFS_3G := true
 TW_THEME := portrait_mdpi
 TW_INCLUDE_FB2PNG := true
+BOARD_SUPPRESS_SECURE_ERASE := true # "Some MMCs have VERY slow secure erase - use standard erase instead"
 
