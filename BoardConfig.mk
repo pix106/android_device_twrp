@@ -22,4 +22,5 @@ TW_INCLUDE_CRYPTO := true
 RECOVERY_SDCARD_ON_DATA := true
 TW_INCLUDE_NTFS_3G := true
 TW_THEME := portrait_mdpi
+TW_INCLUDE_FB2PNG := true
 
