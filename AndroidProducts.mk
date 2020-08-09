@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_device.mk
+    $(LOCAL_DIR)/omni_Tab2A720F.mk
