@@ -8,6 +8,8 @@ TARGET_CPU_VARIANT := cortex-a7
 TARGET_PREBUILT_KERNEL := $(LOCAL_PATH)/kernel
 BOARD_KERNEL_CMDLINE := androidboot.selinux=permissive
 
+BOARD_CUSTOM_BOOTIMG_MK := $(LOCAL_PATH)/bootimg.mk
+
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
